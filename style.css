@@ -1,0 +1,23 @@
+.odin {
+    padding-left: 120px;
+}
+
+.green {
+    background-color: #008C45;
+    color: white;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: auto;
+}
+
+.white {
+    padding-left: 180px;
+    padding-right: 193px;
+}
+
+.red {
+    background-color: #CD212A;
+    color: white;
+    padding-left: 132px;
+    padding-right: 131px;
+}
